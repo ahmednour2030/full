@@ -1,0 +1,16 @@
+{
+  "name": "vue-fullcalendar-scheduler-example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": ["vue", "scheduler", "fullcalendar", "resources", "example"],
+  "homepage": "https://codesandbox.io/s/qlp8jvko3j",
+  "main": "index.js",
+  "dependencies": {
+    "fullcalendar-scheduler": "1.9.3",
+    "jquery": "3.3.1",
+    "moment": "latest",
+    "vue": "2.5.15",
+    "vue-full-calendar": "2.5.2",
+    "vue-router": "3.0.1"
+  }
+}
